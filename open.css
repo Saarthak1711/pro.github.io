@@ -71,9 +71,9 @@ body {
     color: red;
   }
   p {
-    font-size: 13.5px;
+    font-size: 13px;
     padding: 2px;
-    line-height: 14.5px;
+    line-height: 14px;
   }
   #letter img {
     background-size: cover;
